@@ -6,6 +6,7 @@ import shlex
 #'Werners RadioPlayer' plays radio
 #Depends on package mplayer
 #supposably needs GNU/Linux
+#only works with python3
 
 #Global variables
 PathToControlFile="/tmp/RadioControl"
